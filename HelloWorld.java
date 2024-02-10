@@ -6,7 +6,7 @@ public class HelloWorld
 		int a = 5;
 		int b = 3;
 		int c = a - b;
-		System.out.println("Subtraction of a and B =" C);
+		System.out.println("Subtraction of a and B =" +C);
 	}
 }
 
