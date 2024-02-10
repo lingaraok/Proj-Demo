@@ -10,7 +10,7 @@ public class HelloWorld
 		int d = a * b;
 		System.out.println("Multiplication of a and B =" +d);
 		int E = a/b;
-		System.out.println("Multiplication of a and B =" +E);
+		System.out.println("Division of a and B =" +E);
 	}
 }
 
