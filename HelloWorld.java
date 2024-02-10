@@ -11,8 +11,9 @@ public class HelloWorld
 		System.out.println("Multiplication of a and B =" +d);
 		int E = a/b;
 		System.out.println("Division of a and B =" +E);
-		int F = a^b;
-		System.out.println("A to the power of B is=" +F);
+		double F = math.pow(a,b);
+		System.out.println("A to the power of B is=" +F); 
+
 	}
 }
 
