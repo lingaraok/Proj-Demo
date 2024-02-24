@@ -14,6 +14,7 @@ public class HelloWorld
 		int F = a^b;
 		System.out.println("A to the power of B is=" +F);
 		System.out.println("New Line added for Code Merge test");
+		System.out.println("New Line added for Auto Build test in jenkins");
 		
 	}
 }
